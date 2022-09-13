@@ -2,22 +2,15 @@
 
 # Project Name
 
-> Project description.
+> The frontend for the greet-world webapp.
 
+> Link to [frontend app](https://github.com/Danie12345/greet-world-backend)
 
 ## Built With
 - React
 - Redux
-- Jest and react-testing-library
 - Axios
-- Some API
-- Netlify
 - Gitflow
-
-## Live Demos
-- [Netlify](empty link)
-- [Heroku](empty link)
-
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -62,8 +55,6 @@ Feel free to check the [issues](../../issues/) page.
 ## Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-- Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
 
 ## 📝 License
 This project is [MIT](LICENSE) licensed.
